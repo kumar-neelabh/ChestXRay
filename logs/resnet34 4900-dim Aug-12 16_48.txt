@@ -1,0 +1,13 @@
+2019-08-12 16:48:28,529 - root - INFO - Architecture : resnet34
+2019-08-12 16:48:28,532 - root - INFO - Representaion Dimensionality : 4900
+2019-08-12 16:48:28,535 - root - INFO - Dataset : curated
+2019-08-12 16:48:36,867 - root - INFO - Starting pretraining...
+2019-08-12 16:48:36,869 - root - INFO - Learning rate : 0.001
+2019-08-12 16:48:36,878 - root - INFO - Accumulation steps : 32
+2019-08-12 16:48:36,879 - root - INFO - AE epochs : 10
+2019-08-12 17:00:33,130 - root - INFO -   Epoch 1/10	 Time: 716.246	 Loss: 637.44140830
+2019-08-12 17:11:39,658 - root - INFO -   Epoch 2/10	 Time: 666.523	 Loss: 565.42987479
+2019-08-12 17:22:47,369 - root - INFO -   Epoch 3/10	 Time: 667.707	 Loss: 507.69604216
+2019-08-12 17:41:57,508 - root - INFO - Architecture : vgg
+2019-08-12 17:41:57,516 - root - INFO - Representaion Dimensionality : 9800
+2019-08-12 17:41:57,517 - root - INFO - Dataset : curated

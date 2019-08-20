@@ -1,0 +1,86 @@
+2019-08-13 12:27:04,956 - root - INFO - Architecture : resnet18
+2019-08-13 12:27:04,965 - root - INFO - Representaion Dimensionality : 4900
+2019-08-13 12:27:04,968 - root - INFO - Dataset : curated
+2019-08-13 12:27:08,005 - root - INFO - Testing autoencoder...
+2019-08-13 12:27:32,865 - root - INFO - Test set Loss: 216.91830042
+2019-08-13 12:27:32,878 - root - INFO - Test set AUC: 48.39%
+2019-08-13 12:27:32,883 - root - INFO - Autoencoder testing time: 24.868
+2019-08-13 12:27:32,888 - root - INFO - Finished testing autoencoder.
+2019-08-13 12:27:35,995 - root - INFO - Initializing Center...
+2019-08-13 12:32:06,861 - root - INFO - Center initialized.
+2019-08-13 12:32:06,879 - root - INFO - Starting training...
+2019-08-13 12:45:00,086 - root - INFO -   Epoch 1/2	 Time: 773.203	 Loss: 13.43209885
+2019-08-13 12:57:51,885 - root - INFO -   Epoch 2/2	 Time: 771.795	 Loss: 0.90300738
+2019-08-13 12:57:51,895 - root - INFO - Training time: 1545.013
+2019-08-13 12:57:51,900 - root - INFO - Finished training.
+2019-08-13 12:57:57,679 - root - INFO - Starting testing...
+2019-08-13 12:59:58,655 - root - INFO - Testing time: 120.967
+2019-08-13 12:59:58,666 - root - INFO - Test set AUC: 51.29%
+2019-08-13 12:59:58,669 - root - INFO - Finished testing.
+2019-08-13 13:02:28,815 - root - INFO - Architecture : resnet18
+2019-08-13 13:02:28,831 - root - INFO - Representaion Dimensionality : 490
+2019-08-13 13:02:28,834 - root - INFO - Dataset : curated
+2019-08-13 13:02:30,762 - root - INFO - Starting pretraining...
+2019-08-13 13:02:30,770 - root - INFO - Learning rate : 0.001
+2019-08-13 13:02:30,776 - root - INFO - Accumulation steps : 32
+2019-08-13 13:02:30,781 - root - INFO - AE epochs : 50
+2019-08-13 13:04:51,125 - root - INFO -   Epoch 1/50	 Time: 140.338	 Loss: 1275.71595942
+2019-08-13 13:07:11,335 - root - INFO -   Epoch 2/50	 Time: 140.206	 Loss: 47.49138547
+2019-08-13 13:09:31,952 - root - INFO -   Epoch 3/50	 Time: 140.614	 Loss: 21.22359983
+2019-08-13 13:11:52,067 - root - INFO -   Epoch 4/50	 Time: 140.111	 Loss: 15.51379850
+2019-08-13 13:14:11,679 - root - INFO -   Epoch 5/50	 Time: 139.605	 Loss: 13.04018138
+2019-08-13 13:16:31,026 - root - INFO -   Epoch 6/50	 Time: 139.338	 Loss: 11.57258485
+2019-08-13 13:18:51,131 - root - INFO -   Epoch 7/50	 Time: 140.100	 Loss: 10.59374763
+2019-08-13 13:21:11,634 - root - INFO -   Epoch 8/50	 Time: 140.499	 Loss: 9.90164452
+2019-08-13 13:23:31,826 - root - INFO -   Epoch 9/50	 Time: 140.188	 Loss: 9.43451706
+2019-08-13 13:25:51,822 - root - INFO -   Epoch 10/50	 Time: 139.987	 Loss: 9.05299218
+2019-08-13 13:28:11,620 - root - INFO -   Epoch 11/50	 Time: 139.794	 Loss: 8.69452117
+2019-08-13 13:30:31,391 - root - INFO -   Epoch 12/50	 Time: 139.767	 Loss: 8.41561710
+2019-08-13 13:32:51,118 - root - INFO -   Epoch 13/50	 Time: 139.722	 Loss: 8.14390818
+2019-08-13 13:35:10,495 - root - INFO -   Epoch 14/50	 Time: 139.373	 Loss: 7.85748499
+2019-08-13 13:37:30,229 - root - INFO -   Epoch 15/50	 Time: 139.726	 Loss: 7.57240716
+2019-08-13 13:39:49,998 - root - INFO -   Epoch 16/50	 Time: 139.765	 Loss: 7.32885779
+2019-08-13 13:42:09,767 - root - INFO -   Epoch 17/50	 Time: 139.763	 Loss: 7.04877449
+2019-08-13 13:44:29,724 - root - INFO -   Epoch 18/50	 Time: 139.948	 Loss: 6.83777636
+2019-08-13 13:46:49,780 - root - INFO -   Epoch 19/50	 Time: 140.051	 Loss: 6.60157566
+2019-08-13 13:49:09,333 - root - INFO -   Epoch 20/50	 Time: 139.549	 Loss: 6.42686310
+2019-08-13 13:49:09,338 - root - INFO -   LR scheduler: new learning rate is 0.0001
+2019-08-13 13:51:28,744 - root - INFO -   Epoch 21/50	 Time: 139.399	 Loss: 6.37314580
+2019-08-13 13:53:48,494 - root - INFO -   Epoch 22/50	 Time: 139.745	 Loss: 6.34031841
+2019-08-13 13:56:08,003 - root - INFO -   Epoch 23/50	 Time: 139.506	 Loss: 6.31684544
+2019-08-13 13:58:27,665 - root - INFO -   Epoch 24/50	 Time: 139.658	 Loss: 6.28150456
+2019-08-13 14:00:47,196 - root - INFO -   Epoch 25/50	 Time: 139.524	 Loss: 6.25942634
+2019-08-13 14:03:06,746 - root - INFO -   Epoch 26/50	 Time: 139.546	 Loss: 6.22541289
+2019-08-13 14:05:26,389 - root - INFO -   Epoch 27/50	 Time: 139.638	 Loss: 6.21632324
+2019-08-13 14:07:45,870 - root - INFO -   Epoch 28/50	 Time: 139.477	 Loss: 6.18773958
+2019-08-13 14:10:05,641 - root - INFO -   Epoch 29/50	 Time: 139.762	 Loss: 6.16383910
+2019-08-13 14:12:25,183 - root - INFO -   Epoch 30/50	 Time: 139.537	 Loss: 6.13381120
+2019-08-13 14:14:44,742 - root - INFO -   Epoch 31/50	 Time: 139.556	 Loss: 6.10988291
+2019-08-13 14:17:04,390 - root - INFO -   Epoch 32/50	 Time: 139.643	 Loss: 6.07520923
+2019-08-13 14:19:23,998 - root - INFO -   Epoch 33/50	 Time: 139.605	 Loss: 6.04781990
+2019-08-13 14:21:43,911 - root - INFO -   Epoch 34/50	 Time: 139.906	 Loss: 6.00784739
+2019-08-13 14:24:03,465 - root - INFO -   Epoch 35/50	 Time: 139.541	 Loss: 5.99271983
+2019-08-13 14:26:23,012 - root - INFO -   Epoch 36/50	 Time: 139.541	 Loss: 5.97270620
+2019-08-13 14:28:42,851 - root - INFO -   Epoch 37/50	 Time: 139.835	 Loss: 5.94181270
+2019-08-13 14:31:02,931 - root - INFO -   Epoch 38/50	 Time: 140.071	 Loss: 5.91083141
+2019-08-13 14:33:22,388 - root - INFO -   Epoch 39/50	 Time: 139.452	 Loss: 5.89126762
+2019-08-13 14:35:42,086 - root - INFO -   Epoch 40/50	 Time: 139.695	 Loss: 5.87844198
+2019-08-13 14:35:42,090 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-08-13 14:38:01,857 - root - INFO -   Epoch 41/50	 Time: 139.761	 Loss: 5.86282459
+2019-08-13 14:40:21,582 - root - INFO -   Epoch 42/50	 Time: 139.721	 Loss: 5.85650769
+2019-08-13 14:42:41,221 - root - INFO -   Epoch 43/50	 Time: 139.635	 Loss: 5.85314422
+2019-08-13 14:45:01,049 - root - INFO -   Epoch 44/50	 Time: 139.823	 Loss: 5.85515541
+2019-08-13 14:47:20,546 - root - INFO -   Epoch 45/50	 Time: 139.492	 Loss: 5.84846996
+2019-08-13 14:49:40,204 - root - INFO -   Epoch 46/50	 Time: 139.652	 Loss: 5.85037342
+2019-08-13 14:51:59,863 - root - INFO -   Epoch 47/50	 Time: 139.655	 Loss: 5.83689158
+2019-08-13 14:54:19,376 - root - INFO -   Epoch 48/50	 Time: 139.509	 Loss: 5.84035446
+2019-08-13 14:56:38,775 - root - INFO -   Epoch 49/50	 Time: 139.392	 Loss: 5.83331736
+2019-08-13 14:58:57,828 - root - INFO -   Epoch 50/50	 Time: 139.041	 Loss: 5.84518042
+2019-08-13 14:58:57,832 - root - INFO - Pretraining time: 6987.047
+2019-08-13 14:58:57,839 - root - INFO - Finished pretraining.
+2019-08-13 14:59:02,066 - root - INFO - Testing autoencoder...
+2019-08-13 14:59:27,739 - root - INFO - Test set Loss: 185.22469580
+2019-08-13 14:59:27,753 - root - INFO - Test set AUC: 46.03%
+2019-08-13 14:59:27,756 - root - INFO - Autoencoder testing time: 25.680
+2019-08-13 14:59:27,759 - root - INFO - Finished testing autoencoder.
+2019-08-13 14:59:30,852 - root - INFO - Initializing Center...

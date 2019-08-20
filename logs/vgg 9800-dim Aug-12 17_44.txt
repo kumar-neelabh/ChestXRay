@@ -1,0 +1,9 @@
+2019-08-12 17:44:35,906 - root - INFO - Architecture : vgg
+2019-08-12 17:44:35,916 - root - INFO - Representaion Dimensionality : 9800
+2019-08-12 17:44:35,921 - root - INFO - Dataset : curated
+2019-08-12 17:44:46,420 - root - INFO - Starting pretraining...
+2019-08-12 17:44:46,423 - root - INFO - Learning rate : 0.001
+2019-08-12 17:44:46,427 - root - INFO - Accumulation steps : 32
+2019-08-12 17:44:46,428 - root - INFO - AE epochs : 10
+2019-08-12 18:34:38,796 - root - INFO -   Epoch 1/10	 Time: 2992.366	 Loss: 419.95416785
+2019-08-12 19:23:43,043 - root - INFO -   Epoch 2/10	 Time: 2944.244	 Loss: 375.93525579

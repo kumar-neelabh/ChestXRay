@@ -1,0 +1,7 @@
+2019-08-14 18:00:45,459 - root - INFO - Architecture : resnet18
+2019-08-14 18:00:45,462 - root - INFO - Representaion Dimensionality : 490
+2019-08-14 18:00:45,466 - root - INFO - Dataset : micro
+2019-08-14 18:01:01,717 - root - INFO - Starting pretraining...
+2019-08-14 18:01:01,719 - root - INFO - Learning rate : 0.001
+2019-08-14 18:01:01,721 - root - INFO - Accumulation steps : 32
+2019-08-14 18:01:01,723 - root - INFO - AE epochs : 1

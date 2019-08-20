@@ -1,0 +1,39 @@
+2019-08-15 18:49:12,381 - root - INFO - Architecture : resnet18
+2019-08-15 18:49:12,384 - root - INFO - Representaion Dimensionality : 490
+2019-08-15 18:49:12,387 - root - INFO - Dataset : clean
+2019-08-15 18:49:48,362 - root - INFO - Architecture : resnet18
+2019-08-15 18:49:48,362 - root - INFO - Architecture : resnet18
+2019-08-15 18:49:48,371 - root - INFO - Representaion Dimensionality : 490
+2019-08-15 18:49:48,371 - root - INFO - Representaion Dimensionality : 490
+2019-08-15 18:49:48,374 - root - INFO - Dataset : clean
+2019-08-15 18:49:48,374 - root - INFO - Dataset : clean
+2019-08-15 18:50:15,802 - root - INFO - Architecture : resnet18
+2019-08-15 18:50:15,802 - root - INFO - Architecture : resnet18
+2019-08-15 18:50:15,814 - root - INFO - Representaion Dimensionality : 490
+2019-08-15 18:50:15,814 - root - INFO - Representaion Dimensionality : 490
+2019-08-15 18:50:15,818 - root - INFO - Dataset : clean
+2019-08-15 18:50:15,818 - root - INFO - Dataset : clean
+2019-08-15 18:50:38,452 - root - INFO - Initializing Center...
+2019-08-15 18:50:38,452 - root - INFO - Initializing Center...
+2019-08-15 18:55:25,622 - root - INFO - Center initialized.
+2019-08-15 18:55:25,622 - root - INFO - Center initialized.
+2019-08-15 18:55:25,627 - root - INFO - Starting training...
+2019-08-15 18:55:25,627 - root - INFO - Starting training...
+2019-08-15 19:09:40,229 - root - INFO -   Epoch 1/15	 Time: 854.598	 Loss: 0.07558162
+2019-08-15 19:09:40,229 - root - INFO -   Epoch 1/15	 Time: 854.598	 Loss: 0.07558162
+2019-08-15 19:23:52,573 - root - INFO -   Epoch 2/15	 Time: 852.341	 Loss: 0.05325236
+2019-08-15 19:23:52,573 - root - INFO -   Epoch 2/15	 Time: 852.341	 Loss: 0.05325236
+2019-08-15 19:38:02,778 - root - INFO -   Epoch 3/15	 Time: 850.195	 Loss: 0.05665192
+2019-08-15 19:38:02,778 - root - INFO -   Epoch 3/15	 Time: 850.195	 Loss: 0.05665192
+2019-08-15 19:51:46,789 - root - INFO - Architecture : resnet18
+2019-08-15 19:51:46,789 - root - INFO - Architecture : resnet18
+2019-08-15 19:51:46,800 - root - INFO - Representaion Dimensionality : 490
+2019-08-15 19:51:46,800 - root - INFO - Representaion Dimensionality : 490
+2019-08-15 19:51:46,804 - root - INFO - Dataset : clean
+2019-08-15 19:51:46,804 - root - INFO - Dataset : clean
+2019-08-15 19:52:07,583 - root - INFO - Initializing Center...
+2019-08-15 19:52:07,583 - root - INFO - Initializing Center...
+2019-08-15 19:56:54,972 - root - INFO - Center initialized.
+2019-08-15 19:56:54,972 - root - INFO - Center initialized.
+2019-08-15 19:56:54,977 - root - INFO - Starting training...
+2019-08-15 19:56:54,977 - root - INFO - Starting training...

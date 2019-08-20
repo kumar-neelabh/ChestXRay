@@ -1,0 +1,27 @@
+2019-08-15 08:29:35,344 - root - INFO - Architecture : resnet18
+2019-08-15 08:29:35,346 - root - INFO - Representaion Dimensionality : 490
+2019-08-15 08:29:35,347 - root - INFO - Dataset : clean
+2019-08-15 08:29:51,486 - root - INFO - Starting pretraining...
+2019-08-15 08:29:51,488 - root - INFO - Learning rate : 0.001
+2019-08-15 08:29:51,491 - root - INFO - Accumulation steps : 32
+2019-08-15 08:29:51,496 - root - INFO - AE epochs : 2
+2019-08-15 08:35:47,241 - root - INFO -   Epoch 1/2	 Time: 355.738	 Loss: 1012.63845376
+2019-08-15 08:37:45,237 - root - INFO -   Epoch 2/2	 Time: 117.993	 Loss: 39.01404676
+2019-08-15 08:37:45,239 - root - INFO - Pretraining time: 473.739
+2019-08-15 08:37:45,245 - root - INFO - Finished pretraining.
+2019-08-15 08:37:45,986 - root - INFO - Testing autoencoder...
+2019-08-15 08:39:57,634 - root - INFO - Test set Loss: 787.71595512
+2019-08-15 08:39:57,643 - root - INFO - Test set AUC: 47.60%
+2019-08-15 08:39:57,644 - root - INFO - Autoencoder testing time: 131.655
+2019-08-15 08:39:57,647 - root - INFO - Finished testing autoencoder.
+2019-08-15 08:40:06,134 - root - INFO - Initializing Center...
+2019-08-15 08:44:36,450 - root - INFO - Center initialized.
+2019-08-15 08:44:36,454 - root - INFO - Starting training...
+2019-08-15 08:58:05,740 - root - INFO -   Epoch 1/2	 Time: 809.283	 Loss: 7.97539804
+2019-08-15 09:11:35,366 - root - INFO -   Epoch 2/2	 Time: 809.623	 Loss: 0.09255984
+2019-08-15 09:11:35,371 - root - INFO - Training time: 1618.914
+2019-08-15 09:11:35,372 - root - INFO - Finished training.
+2019-08-15 09:11:39,337 - root - INFO - Starting testing...
+2019-08-15 09:13:40,910 - root - INFO - Testing time: 121.568
+2019-08-15 09:13:40,921 - root - INFO - Test set AUC: 47.19%
+2019-08-15 09:13:40,924 - root - INFO - Finished testing.

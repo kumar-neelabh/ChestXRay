@@ -1,0 +1,24 @@
+2019-08-12 19:56:16,659 - root - INFO - Architecture : vgg
+2019-08-12 19:56:16,661 - root - INFO - Representaion Dimensionality : 4900
+2019-08-12 19:56:16,663 - root - INFO - Dataset : curated
+2019-08-12 19:56:26,607 - root - INFO - Starting pretraining...
+2019-08-12 19:56:26,612 - root - INFO - Learning rate : 0.001
+2019-08-12 19:56:26,615 - root - INFO - Accumulation steps : 32
+2019-08-12 19:56:26,618 - root - INFO - AE epochs : 10
+2019-08-12 20:46:49,416 - root - INFO -   Epoch 1/10	 Time: 3022.795	 Loss: 238.72043984
+2019-08-12 21:36:37,347 - root - INFO -   Epoch 2/10	 Time: 2987.928	 Loss: 198.01156014
+2019-08-12 22:26:32,844 - root - INFO -   Epoch 3/10	 Time: 2995.493	 Loss: 178.69125700
+2019-08-12 23:15:56,831 - root - INFO -   Epoch 4/10	 Time: 2963.984	 Loss: 159.77787925
+2019-08-13 00:05:10,087 - root - INFO -   Epoch 5/10	 Time: 2953.253	 Loss: 143.16119959
+2019-08-13 00:54:26,728 - root - INFO -   Epoch 6/10	 Time: 2956.638	 Loss: 127.01596388
+2019-08-13 01:43:39,430 - root - INFO -   Epoch 7/10	 Time: 2952.699	 Loss: 115.90239354
+2019-08-13 02:32:52,001 - root - INFO -   Epoch 8/10	 Time: 2952.567	 Loss: 104.20494749
+2019-08-13 03:22:04,994 - root - INFO -   Epoch 9/10	 Time: 2952.990	 Loss: 92.29847488
+2019-08-13 04:11:18,890 - root - INFO -   Epoch 10/10	 Time: 2953.893	 Loss: 82.37667564
+2019-08-13 04:11:18,893 - root - INFO - Pretraining time: 29692.273
+2019-08-13 04:11:18,899 - root - INFO - Finished pretraining.
+2019-08-13 04:11:25,265 - root - INFO - Testing autoencoder...
+2019-08-13 04:19:02,683 - root - INFO - Test set Loss: 2252.85865885
+2019-08-13 04:19:02,703 - root - INFO - Test set AUC: 47.24%
+2019-08-13 04:19:02,705 - root - INFO - Autoencoder testing time: 457.437
+2019-08-13 04:19:02,706 - root - INFO - Finished testing autoencoder.

@@ -1,0 +1,114 @@
+2019-08-16 11:20:56,539 - root - INFO - Architecture : resnet18
+2019-08-16 11:20:56,544 - root - INFO - Representaion Dimensionality : 490
+2019-08-16 11:20:56,546 - root - INFO - Dataset : clean
+2019-08-16 11:21:06,809 - root - INFO - Starting pretraining...
+2019-08-16 11:21:06,811 - root - INFO - Learning rate : 0.001
+2019-08-16 11:21:06,815 - root - INFO - Gradient accumulation : False
+2019-08-16 11:21:06,819 - root - INFO - Accumulation steps : 0
+2019-08-16 11:21:06,821 - root - INFO - AE epochs : 1
+2019-08-16 11:23:25,854 - root - INFO -   Epoch 1/1	 Time: 139.030	 Loss: 2223.70022712
+2019-08-16 11:23:25,861 - root - INFO - Pretraining time: 139.038
+2019-08-16 11:23:25,868 - root - INFO - Finished pretraining.
+2019-08-16 11:23:26,674 - root - INFO - Testing autoencoder...
+2019-08-16 11:23:50,470 - root - INFO - Test set Loss: 149.52786584
+2019-08-16 11:23:50,482 - root - INFO - Test set AUC: 46.52%
+2019-08-16 11:23:50,486 - root - INFO - Autoencoder testing time: 23.805
+2019-08-16 11:23:50,490 - root - INFO - Finished testing autoencoder.
+2019-08-16 11:23:59,496 - root - INFO - Initializing Center...
+2019-08-16 11:24:46,700 - root - INFO - Center initialized.
+2019-08-16 11:24:46,708 - root - INFO - Starting training...
+2019-08-16 11:25:51,676 - root - INFO -   Epoch 1/1	 Time: 64.962	 Loss: 868.99512196
+2019-08-16 11:25:51,680 - root - INFO - Training time: 64.968
+2019-08-16 11:25:51,688 - root - INFO - Finished training.
+2019-08-16 11:25:52,484 - root - INFO - Starting testing...
+2019-08-16 11:26:14,177 - root - INFO - Testing time: 21.686
+2019-08-16 11:26:14,185 - root - INFO - Test set AUC: 56.18%
+2019-08-16 11:26:14,190 - root - INFO - Finished testing.
+2019-08-16 11:26:52,651 - root - INFO - Architecture : resnet18
+2019-08-16 11:26:52,656 - root - INFO - Representaion Dimensionality : 490
+2019-08-16 11:26:52,660 - root - INFO - Dataset : clean
+2019-08-16 11:27:03,463 - root - INFO - Starting pretraining...
+2019-08-16 11:27:03,471 - root - INFO - Learning rate : 0.001
+2019-08-16 11:27:03,476 - root - INFO - Gradient accumulation : False
+2019-08-16 11:27:03,478 - root - INFO - Accumulation steps : 0
+2019-08-16 11:27:03,482 - root - INFO - AE epochs : 10
+2019-08-16 11:29:22,678 - root - INFO -   Epoch 1/10	 Time: 139.191	 Loss: 1405.42951379
+2019-08-16 11:31:41,747 - root - INFO -   Epoch 2/10	 Time: 139.066	 Loss: 134.27367324
+2019-08-16 11:34:00,851 - root - INFO -   Epoch 3/10	 Time: 139.097	 Loss: 95.12475267
+2019-08-16 11:36:19,917 - root - INFO -   Epoch 4/10	 Time: 139.058	 Loss: 75.08328181
+2019-08-16 11:38:38,784 - root - INFO -   Epoch 5/10	 Time: 138.863	 Loss: 62.45378391
+2019-08-16 11:40:57,604 - root - INFO -   Epoch 6/10	 Time: 138.817	 Loss: 56.01295638
+2019-08-16 11:43:16,590 - root - INFO -   Epoch 7/10	 Time: 138.977	 Loss: 51.29925385
+2019-08-16 11:45:35,663 - root - INFO -   Epoch 8/10	 Time: 139.069	 Loss: 48.12336814
+2019-08-16 11:47:54,626 - root - INFO -   Epoch 9/10	 Time: 138.960	 Loss: 45.17536533
+2019-08-16 11:50:13,634 - root - INFO -   Epoch 10/10	 Time: 138.998	 Loss: 43.48580338
+2019-08-16 11:50:13,644 - root - INFO - Pretraining time: 1390.159
+2019-08-16 11:50:13,648 - root - INFO - Finished pretraining.
+2019-08-16 11:50:14,418 - root - INFO - Testing autoencoder...
+2019-08-16 11:50:38,026 - root - INFO - Test set Loss: 41.86132704
+2019-08-16 11:50:38,038 - root - INFO - Test set AUC: 45.71%
+2019-08-16 11:50:38,043 - root - INFO - Autoencoder testing time: 23.618
+2019-08-16 11:50:38,046 - root - INFO - Finished testing autoencoder.
+2019-08-16 11:50:46,832 - root - INFO - Initializing Center...
+2019-08-16 11:51:33,837 - root - INFO - Center initialized.
+2019-08-16 11:51:33,847 - root - INFO - Starting training...
+2019-08-16 11:52:38,396 - root - INFO -   Epoch 1/10	 Time: 64.544	 Loss: 999.95191256
+2019-08-16 11:53:43,214 - root - INFO -   Epoch 2/10	 Time: 64.815	 Loss: 8.35063841
+2019-08-16 11:54:47,627 - root - INFO -   Epoch 3/10	 Time: 64.408	 Loss: 5.34696364
+2019-08-16 11:55:51,209 - root - INFO -   Epoch 4/10	 Time: 63.579	 Loss: 4.54913733
+2019-08-16 11:56:55,360 - root - INFO -   Epoch 5/10	 Time: 64.148	 Loss: 4.05653598
+2019-08-16 11:57:59,215 - root - INFO -   Epoch 6/10	 Time: 63.845	 Loss: 2.83446668
+2019-08-16 11:59:02,677 - root - INFO -   Epoch 7/10	 Time: 63.455	 Loss: 2.65471404
+2019-08-16 12:00:06,226 - root - INFO -   Epoch 8/10	 Time: 63.543	 Loss: 1.61478597
+2019-08-16 12:01:09,695 - root - INFO -   Epoch 9/10	 Time: 63.459	 Loss: 2.03119395
+2019-08-16 12:02:13,379 - root - INFO -   Epoch 10/10	 Time: 63.681	 Loss: 1.62324461
+2019-08-16 12:02:13,382 - root - INFO - Training time: 639.531
+2019-08-16 12:02:13,391 - root - INFO - Finished training.
+2019-08-16 12:02:14,063 - root - INFO - Starting testing...
+2019-08-16 12:02:35,196 - root - INFO - Testing time: 21.130
+2019-08-16 12:02:35,210 - root - INFO - Test set AUC: 49.33%
+2019-08-16 12:02:35,214 - root - INFO - Finished testing.
+2019-08-16 12:05:39,478 - root - INFO - Architecture : resnet18
+2019-08-16 12:05:39,484 - root - INFO - Representaion Dimensionality : 4900
+2019-08-16 12:05:39,487 - root - INFO - Dataset : clean
+2019-08-16 12:06:02,851 - root - INFO - Starting pretraining...
+2019-08-16 12:06:02,859 - root - INFO - Learning rate : 0.001
+2019-08-16 12:06:02,863 - root - INFO - Gradient accumulation : False
+2019-08-16 12:06:02,866 - root - INFO - Accumulation steps : 0
+2019-08-16 12:06:02,869 - root - INFO - AE epochs : 10
+2019-08-16 12:09:36,969 - root - INFO -   Epoch 1/10	 Time: 214.094	 Loss: 1603.96619639
+2019-08-16 12:13:10,316 - root - INFO -   Epoch 2/10	 Time: 213.340	 Loss: 111.01252876
+2019-08-16 12:16:44,005 - root - INFO -   Epoch 3/10	 Time: 213.680	 Loss: 83.81932167
+2019-08-16 12:20:17,295 - root - INFO -   Epoch 4/10	 Time: 213.285	 Loss: 70.76364526
+2019-08-16 12:23:50,478 - root - INFO -   Epoch 5/10	 Time: 213.180	 Loss: 62.19698472
+2019-08-16 12:27:24,158 - root - INFO -   Epoch 6/10	 Time: 213.671	 Loss: 55.35433370
+2019-08-16 12:30:57,527 - root - INFO -   Epoch 7/10	 Time: 213.362	 Loss: 50.35406888
+2019-08-16 12:34:30,923 - root - INFO -   Epoch 8/10	 Time: 213.391	 Loss: 46.90351229
+2019-08-16 12:38:03,698 - root - INFO -   Epoch 9/10	 Time: 212.771	 Loss: 44.27397307
+2019-08-16 12:41:37,085 - root - INFO -   Epoch 10/10	 Time: 213.377	 Loss: 42.09306953
+2019-08-16 12:41:37,089 - root - INFO - Pretraining time: 2134.216
+2019-08-16 12:41:37,096 - root - INFO - Finished pretraining.
+2019-08-16 12:41:40,548 - root - INFO - Testing autoencoder...
+2019-08-16 12:42:06,301 - root - INFO - Test set Loss: 40.37110762
+2019-08-16 12:42:06,314 - root - INFO - Test set AUC: 46.32%
+2019-08-16 12:42:06,320 - root - INFO - Autoencoder testing time: 25.766
+2019-08-16 12:42:06,325 - root - INFO - Finished testing autoencoder.
+2019-08-16 12:42:29,264 - root - INFO - Initializing Center...
+2019-08-16 12:43:19,038 - root - INFO - Center initialized.
+2019-08-16 12:43:19,054 - root - INFO - Starting training...
+2019-08-16 12:45:32,996 - root - INFO -   Epoch 1/10	 Time: 133.938	 Loss: 12606.66138127
+2019-08-16 12:47:47,976 - root - INFO -   Epoch 2/10	 Time: 134.970	 Loss: 40.65696875
+2019-08-16 12:50:02,939 - root - INFO -   Epoch 3/10	 Time: 134.952	 Loss: 24.01150955
+2019-08-16 12:52:17,520 - root - INFO -   Epoch 4/10	 Time: 134.571	 Loss: 18.29398848
+2019-08-16 12:54:32,439 - root - INFO -   Epoch 5/10	 Time: 134.916	 Loss: 14.68531487
+2019-08-16 12:56:47,396 - root - INFO -   Epoch 6/10	 Time: 134.954	 Loss: 13.07256164
+2019-08-16 12:59:02,376 - root - INFO -   Epoch 7/10	 Time: 134.970	 Loss: 11.83281213
+2019-08-16 13:01:17,681 - root - INFO -   Epoch 8/10	 Time: 135.295	 Loss: 10.54273235
+2019-08-16 13:03:32,233 - root - INFO -   Epoch 9/10	 Time: 134.544	 Loss: 8.54978928
+2019-08-16 13:05:46,814 - root - INFO -   Epoch 10/10	 Time: 134.577	 Loss: 8.27903317
+2019-08-16 13:05:46,817 - root - INFO - Training time: 1347.760
+2019-08-16 13:05:46,824 - root - INFO - Finished training.
+2019-08-16 13:05:51,110 - root - INFO - Starting testing...
+2019-08-16 13:06:14,416 - root - INFO - Testing time: 23.298
+2019-08-16 13:06:14,427 - root - INFO - Test set AUC: 51.06%
+2019-08-16 13:06:14,431 - root - INFO - Finished testing.

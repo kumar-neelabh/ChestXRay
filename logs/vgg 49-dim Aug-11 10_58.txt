@@ -1,0 +1,79 @@
+2019-08-11 10:58:00,052 - root - INFO - Architecture : vgg
+2019-08-11 10:58:00,055 - root - INFO - Representaion Dimensionality : 49
+2019-08-11 10:58:00,058 - root - INFO - Dataset : curated
+2019-08-11 10:58:09,508 - root - INFO - Starting pretraining...
+2019-08-11 10:58:09,511 - root - INFO - Learning rate : 0.001
+2019-08-11 10:58:09,513 - root - INFO - Accumulation steps : 32
+2019-08-11 10:58:09,514 - root - INFO - AE epochs : 1
+2019-08-11 10:58:31,175 - root - INFO - Architecture : vgg
+2019-08-11 10:58:31,175 - root - INFO - Architecture : vgg
+2019-08-11 10:58:31,179 - root - INFO - Representaion Dimensionality : 49
+2019-08-11 10:58:31,179 - root - INFO - Representaion Dimensionality : 49
+2019-08-11 10:58:31,181 - root - INFO - Dataset : curated
+2019-08-11 10:58:31,181 - root - INFO - Dataset : curated
+2019-08-11 10:58:35,777 - root - INFO - Starting pretraining...
+2019-08-11 10:58:35,777 - root - INFO - Starting pretraining...
+2019-08-11 10:58:35,779 - root - INFO - Learning rate : 0.001
+2019-08-11 10:58:35,779 - root - INFO - Learning rate : 0.001
+2019-08-11 10:58:35,783 - root - INFO - Accumulation steps : 32
+2019-08-11 10:58:35,783 - root - INFO - Accumulation steps : 32
+2019-08-11 10:58:35,785 - root - INFO - AE epochs : 1
+2019-08-11 10:58:35,785 - root - INFO - AE epochs : 1
+2019-08-11 10:59:12,318 - root - INFO -   Epoch 1/1	 Time: 36.529	 Loss: 372.42335002
+2019-08-11 10:59:12,318 - root - INFO -   Epoch 1/1	 Time: 36.529	 Loss: 372.42335002
+2019-08-11 10:59:12,324 - root - INFO - Pretraining time: 36.536
+2019-08-11 10:59:12,324 - root - INFO - Pretraining time: 36.536
+2019-08-11 10:59:12,328 - root - INFO - Finished pretraining.
+2019-08-11 10:59:12,328 - root - INFO - Finished pretraining.
+2019-08-11 10:59:18,157 - root - INFO - Testing autoencoder...
+2019-08-11 10:59:18,157 - root - INFO - Testing autoencoder...
+2019-08-11 10:59:24,948 - root - INFO - Test set Loss: 16518.01041667
+2019-08-11 10:59:24,948 - root - INFO - Test set Loss: 16518.01041667
+2019-08-11 10:59:24,954 - root - INFO - Test set AUC: 52.00%
+2019-08-11 10:59:24,954 - root - INFO - Test set AUC: 52.00%
+2019-08-11 10:59:24,956 - root - INFO - Autoencoder testing time: 6.792
+2019-08-11 10:59:24,956 - root - INFO - Autoencoder testing time: 6.792
+2019-08-11 10:59:24,960 - root - INFO - Finished testing autoencoder.
+2019-08-11 10:59:24,960 - root - INFO - Finished testing autoencoder.
+2019-08-11 10:59:29,596 - root - INFO - Initializing Center...
+2019-08-11 10:59:29,596 - root - INFO - Initializing Center...
+2019-08-11 10:59:31,085 - root - INFO - Center initialized.
+2019-08-11 10:59:31,085 - root - INFO - Center initialized.
+2019-08-11 10:59:31,094 - root - INFO - Initializing center c...
+2019-08-11 10:59:31,094 - root - INFO - Initializing center c...
+2019-08-11 11:00:08,512 - root - INFO - Architecture : vgg
+2019-08-11 11:00:08,512 - root - INFO - Architecture : vgg
+2019-08-11 11:00:08,515 - root - INFO - Representaion Dimensionality : 49
+2019-08-11 11:00:08,515 - root - INFO - Representaion Dimensionality : 49
+2019-08-11 11:00:08,517 - root - INFO - Dataset : curated
+2019-08-11 11:00:08,517 - root - INFO - Dataset : curated
+2019-08-11 11:00:12,316 - root - INFO - Starting pretraining...
+2019-08-11 11:00:12,316 - root - INFO - Starting pretraining...
+2019-08-11 11:00:12,322 - root - INFO - Learning rate : 0.001
+2019-08-11 11:00:12,322 - root - INFO - Learning rate : 0.001
+2019-08-11 11:00:12,326 - root - INFO - Accumulation steps : 32
+2019-08-11 11:00:12,326 - root - INFO - Accumulation steps : 32
+2019-08-11 11:00:12,330 - root - INFO - AE epochs : 1
+2019-08-11 11:00:12,330 - root - INFO - AE epochs : 1
+2019-08-11 11:00:22,844 - root - INFO -   Epoch 1/1	 Time: 10.511	 Loss: 371.07117716
+2019-08-11 11:00:22,844 - root - INFO -   Epoch 1/1	 Time: 10.511	 Loss: 371.07117716
+2019-08-11 11:00:22,847 - root - INFO - Pretraining time: 10.515
+2019-08-11 11:00:22,847 - root - INFO - Pretraining time: 10.515
+2019-08-11 11:00:22,852 - root - INFO - Finished pretraining.
+2019-08-11 11:00:22,852 - root - INFO - Finished pretraining.
+2019-08-11 11:00:28,835 - root - INFO - Testing autoencoder...
+2019-08-11 11:00:28,835 - root - INFO - Testing autoencoder...
+2019-08-11 11:00:32,637 - root - INFO - Test set Loss: 16161.91243490
+2019-08-11 11:00:32,637 - root - INFO - Test set Loss: 16161.91243490
+2019-08-11 11:00:32,642 - root - INFO - Test set AUC: 52.00%
+2019-08-11 11:00:32,642 - root - INFO - Test set AUC: 52.00%
+2019-08-11 11:00:32,646 - root - INFO - Autoencoder testing time: 3.804
+2019-08-11 11:00:32,646 - root - INFO - Autoencoder testing time: 3.804
+2019-08-11 11:00:32,648 - root - INFO - Finished testing autoencoder.
+2019-08-11 11:00:32,648 - root - INFO - Finished testing autoencoder.
+2019-08-11 11:00:37,129 - root - INFO - Initializing Center...
+2019-08-11 11:00:37,129 - root - INFO - Initializing Center...
+2019-08-11 11:00:38,556 - root - INFO - Center initialized.
+2019-08-11 11:00:38,556 - root - INFO - Center initialized.
+2019-08-11 11:00:38,560 - root - INFO - Starting training...
+2019-08-11 11:00:38,560 - root - INFO - Starting training...

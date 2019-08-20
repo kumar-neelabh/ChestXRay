@@ -1,0 +1,6 @@
+2019-08-15 19:51:46,789 - root - INFO - Architecture : resnet18
+2019-08-15 19:51:46,800 - root - INFO - Representaion Dimensionality : 490
+2019-08-15 19:51:46,804 - root - INFO - Dataset : clean
+2019-08-15 19:52:07,583 - root - INFO - Initializing Center...
+2019-08-15 19:56:54,972 - root - INFO - Center initialized.
+2019-08-15 19:56:54,977 - root - INFO - Starting training...

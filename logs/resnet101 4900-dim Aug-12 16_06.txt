@@ -1,0 +1,7 @@
+2019-08-12 16:06:19,581 - root - INFO - Architecture : resnet101
+2019-08-12 16:06:19,585 - root - INFO - Representaion Dimensionality : 4900
+2019-08-12 16:06:19,587 - root - INFO - Dataset : curated
+2019-08-12 16:06:33,022 - root - INFO - Starting pretraining...
+2019-08-12 16:06:33,023 - root - INFO - Learning rate : 0.001
+2019-08-12 16:06:33,024 - root - INFO - Accumulation steps : 32
+2019-08-12 16:06:33,026 - root - INFO - AE epochs : 10

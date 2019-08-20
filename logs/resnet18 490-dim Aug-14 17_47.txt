@@ -1,0 +1,3 @@
+2019-08-14 17:47:45,373 - root - INFO - Architecture : resnet18
+2019-08-14 17:47:45,378 - root - INFO - Representaion Dimensionality : 490
+2019-08-14 17:47:45,381 - root - INFO - Dataset : micro

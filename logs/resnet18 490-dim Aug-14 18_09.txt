@@ -1,0 +1,40 @@
+2019-08-14 18:09:07,868 - root - INFO - Architecture : resnet18
+2019-08-14 18:09:07,874 - root - INFO - Representaion Dimensionality : 490
+2019-08-14 18:09:07,877 - root - INFO - Dataset : micro
+2019-08-14 18:09:23,963 - root - INFO - Starting pretraining...
+2019-08-14 18:09:23,964 - root - INFO - Learning rate : 0.001
+2019-08-14 18:09:23,968 - root - INFO - Accumulation steps : 32
+2019-08-14 18:09:23,974 - root - INFO - AE epochs : 1
+2019-08-14 18:10:19,147 - root - INFO -   Epoch 1/1	 Time: 55.169	 Loss: 4745.60302734
+2019-08-14 18:10:19,149 - root - INFO - Pretraining time: 55.173
+2019-08-14 18:10:19,153 - root - INFO - Finished pretraining.
+2019-08-14 18:10:19,890 - root - INFO - Testing autoencoder...
+2019-08-14 18:10:22,672 - root - INFO - Test set Loss: 18014.15950521
+2019-08-14 18:10:22,677 - root - INFO - Test set AUC: 40.00%
+2019-08-14 18:10:22,691 - root - INFO - Autoencoder testing time: 2.796
+2019-08-14 18:10:22,692 - root - INFO - Finished testing autoencoder.
+2019-08-14 18:42:07,979 - root - INFO - Architecture : resnet18
+2019-08-14 18:42:07,984 - root - INFO - Representaion Dimensionality : 490
+2019-08-14 18:42:07,986 - root - INFO - Dataset : micro
+2019-08-14 18:42:18,151 - root - INFO - Starting pretraining...
+2019-08-14 18:42:18,157 - root - INFO - Learning rate : 0.001
+2019-08-14 18:42:18,163 - root - INFO - Accumulation steps : 32
+2019-08-14 18:42:18,164 - root - INFO - AE epochs : 1
+2019-08-14 18:42:19,197 - root - INFO -   Epoch 1/1	 Time: 1.028	 Loss: 7270.44270833
+2019-08-14 18:42:19,199 - root - INFO - Pretraining time: 1.032
+2019-08-14 18:42:19,203 - root - INFO - Finished pretraining.
+2019-08-14 18:42:19,877 - root - INFO - Testing autoencoder...
+2019-08-14 18:42:20,573 - root - INFO - Test set Loss: 24571.28385417
+2019-08-14 18:42:20,582 - root - INFO - Test set AUC: 60.00%
+2019-08-14 18:42:20,584 - root - INFO - Autoencoder testing time: 0.701
+2019-08-14 18:42:20,586 - root - INFO - Finished testing autoencoder.
+2019-08-14 18:42:28,800 - root - INFO - Initializing Center...
+2019-08-14 18:42:30,402 - root - INFO - Center initialized.
+2019-08-14 18:42:30,410 - root - INFO - Starting training...
+2019-08-14 18:42:33,684 - root - INFO -   Epoch 1/1	 Time: 3.263	 Loss: 0.27673949
+2019-08-14 18:42:33,686 - root - INFO - Training time: 3.267
+2019-08-14 18:42:33,689 - root - INFO - Finished training.
+2019-08-14 18:42:37,329 - root - INFO - Starting testing...
+2019-08-14 18:42:38,811 - root - INFO - Testing time: 1.475
+2019-08-14 18:42:38,819 - root - INFO - Test set AUC: 30.00%
+2019-08-14 18:42:38,821 - root - INFO - Finished testing.
