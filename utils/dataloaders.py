@@ -107,6 +107,8 @@ def get_dataset(dataset='cleantrain'):
                            
     
 def get_dataloader(dataset='clean', set_='train', batch_size=4, num_workers=4):
+    if set_ != 'train':
+        dataset = 'clean'
     dataset = get_dataset(dataset=dataset+set_)
     dataloader = DataLoader(dataset, batch_size=batch_size,
                                 shuffle=True, num_workers=num_workers)
